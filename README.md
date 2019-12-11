@@ -1,6 +1,6 @@
 # MenuLayout
-自定义导航栏
-
+自定义导航栏组件
+- props:
 ```js
 configure: {
         type: true, //true显示侧边 false顶部菜单
